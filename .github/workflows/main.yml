@@ -1,4 +1,4 @@
-name: Maven with Synk Demo-Chapter
+name: Maven with Synk Demo-Chapters
 on: push
 jobs:
   security:
